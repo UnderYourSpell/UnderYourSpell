@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Moro! or @UnderYourSpell 
+- 👋 Hi, I’m Moro! or @UnderYourSpell
+- I'm an undergraduate Computer Science student at the University of Alaska Anchorage
 - 👀 I’m interested in Learning all types of programming.
-- 🌱 I’m currently have several projects ongoing.
-- One of them is a graphing calculator!
+- 🌱 I currently have several projects ongoing.
 - 📫 How to reach me: mwbamber@alaska.edu
 
