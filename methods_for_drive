@@ -1,0 +1,5 @@
+
+
+Methods
+
+For the purposes of measuring file system performance we have chosen two programs that were created for the purpose of  file system benchmarking.  The first is called Filebench, a program developed by Sun Microsystems that allows for file system tests of all kinds.  One of the great features of Filebench is that it has a WML (workload model language) that allows a user to write custom tests quite easily.  It also comes with predefined workloads that will model a web server, mail server, video server and more. While stated in the Filebench introduction document, performance overhead caused by very fast file systems exists, the WML suits our purposes for this experiment quite well.  The second program is called Iozone which is a more all encompassing file system benchmarking tool that allows one to perform more of a diagnostic on the system as opposed to custom workloads for the system to be tested on.  Iozone gives the bigger picture performance for a given file system.  We believed that the combination of these tools will allow us to perform comprehensive tests on the various file systems we are testing.  
