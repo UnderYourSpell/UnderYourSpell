@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Moro! or @UnderYourSpell
 - I'm an undergraduate Computer Science student at the University of Alaska Anchorage
 - 📫 How to reach me: mwbamber@alaska.edu
-
+- Check out my personal website highlighting who I am and some projects I've done: https://underyourspell.github.io/gomoro/
